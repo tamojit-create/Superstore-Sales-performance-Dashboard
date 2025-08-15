@@ -100,7 +100,7 @@ The dashboard is structured using **containers** for clarity:
 ---
 
 ## 📷 Dashboard Preview
-*(Add your Tableau dashboard screenshot here)*
+
 
 ---
 
