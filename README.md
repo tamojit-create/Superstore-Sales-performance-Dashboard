@@ -79,7 +79,7 @@ The dashboard is structured using **containers** for clarity:
 ---
 
 ## 🛠️ Tools Used
-- **Tableau Desktop** (202x)
+- **Tableau Desktop** (2024)
 - **Sample Superstore Dataset**
 
 ---
