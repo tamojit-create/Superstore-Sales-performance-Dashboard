@@ -33,7 +33,7 @@ The dashboard highlights **key KPIs**, provides **regional & category-level anal
 | **Total Profit**     | `SUM([Profit]) / 1000`                                                                   | Displayed in thousands (K) |
 | **Total Volume**     | `SUM([Quantity])`                                                                        | Count of total items sold |
 | **Sales per Customer** | `(SUM([Sales]) / COUNTD([Customer ID])) / 1000`                                         | Average sales per unique customer in K |
-| **% of Total Sales** | `(SUM([Sales]) / TOTAL(SUM([Sales])))`                                                   | Used in Pie Chart |
+| **% of Total Sales** | `(SUM([Sales]) / TOTAL(SUM([Sales]))`                                                   | Used in Pie Chart |
 | **Top N States**     | `RANK(SUM([Sales])) <= [Top N Parameter]`                                                | Controlled via parameter |
 
 ---
