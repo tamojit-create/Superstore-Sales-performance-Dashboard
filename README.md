@@ -100,7 +100,9 @@ The dashboard is structured using **containers** for clarity:
 ---
 
 ## 📷 Dashboard Preview
-
+<p align="center">
+  <img src="dashboard.png" alt="Superstore Sales Dashboard" width="85%">
+</p>
 
 ---
 
